@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre mim on Lize Schmidt - Tatuadora</title>
-    <link>https://example.org/about/</link>
+    <link>https://gilbertobueno.me/about/</link>
     <description>Recent content in Sobre mim on Lize Schmidt - Tatuadora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 21:05:33 +0530</lastBuildDate><atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2020 21:05:33 +0530</lastBuildDate><atom:link href="https://gilbertobueno.me/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
